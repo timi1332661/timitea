@@ -1,0 +1,10 @@
+//1、这是找个地方（TestPod：新建的一个文件夹）存放，当然桌面也可以cd /Users/hanwenguang/Desktop
+cd /Users/hanwenguang/Desktop/TestPod  
+//2、将你的项目内copy进去。
+//3、进入clone的文件夹
+//4、提交到远程仓库
+//5、需要输入github的账号和密码
+$  cd /Users/hanwenguang/Desktop/TestPod/TestPreject 
+$  git add .
+$  git commit -m "添加代码"
+$  git push -u origin master
